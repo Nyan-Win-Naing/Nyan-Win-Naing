@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Flutter Mobile Developer
 ------------------------
 
-I am a flutter developer based in Yangon, Myanmar and I have great passion about developing mobile applications & software and always looking for new opportunities to challenge and growth. I am using Flutter and Dart technologies to develop Android & iOS applications. I am knowledgeable about UI/UX for applications'design and also have strong knowledge in integrating data from network and persistence.
+I am a flutter developer based in Ho Chi Minh City, Vietnam and I have great passion about developing mobile applications & software and always looking for new opportunities to challenge and growth. I am using Flutter and Dart technologies to develop Android & iOS applications. I am knowledgeable about UI/UX for applications'design and also have strong knowledge in integrating data from network and persistence.
 
-* 🌍  I'm based in Yangon
+* 🌍  I'm based in HCMC
 * ✉️  You can contact me at [nyanwinnaing1922002@gmail.com](mailto:nyanwinnaing1922002@gmail.com)
 
 ### Skills
